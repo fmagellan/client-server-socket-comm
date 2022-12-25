@@ -1,0 +1,1 @@
+This is the simple implementation of client-server socket communication.
